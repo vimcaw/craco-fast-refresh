@@ -1,3 +1,5 @@
+## [1.0.1](https://github.com/vimcaw/craco-fast-refresh/compare/1.0.0...1.0.1) (2020-09-05)
+
 # [1.0.0](https://github.com/vimcaw/craco-fast-refresh/compare/ls...1.0.0) (2020-09-05)
 
 

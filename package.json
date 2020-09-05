@@ -1,6 +1,6 @@
 {
   "name": "craco-fast-refresh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Craco plugin to enable \"Fast Refresh\" (also previously known as Hot Reloading) for React components.",
   "main": "index.js",
   "repository": "https://github.com/vimcaw/craco-fast-refresh.git",
