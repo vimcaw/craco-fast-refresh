@@ -5,6 +5,11 @@ module.exports = {
   overrideCracoConfig: ({ cracoConfig, context: { env } }) => {
     const isDevelopment = env === 'development';
     if (isDevelopment) {
+      if (!cracoConfig.babel) cracoConfig.babel = {};
+      if (!cracoConfig.babel.plugins) cracoConfig.babel.plugins = [];
+      if (!cracoConfig.webpack) cracoConfig.webpack = {};
+      if (!cracoConfig.webpack.plugins) cracoConfig.webpack.plugins = [];
+
       // Configure Babel plugin
       cracoConfig.babel.plugins.push(ReactRefreshBabelPlugin);
       // Configure Webpack plugin
