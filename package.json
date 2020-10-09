@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@release-it/conventional-changelog": "^2.0.0",
-    "dotenv-cli": "^3.2.0",
+    "dotenv-cli": "^4.0.0",
     "release-it": "^14.0.4"
   }
 }
