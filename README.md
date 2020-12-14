@@ -1,3 +1,7 @@
+## ⚠️ DEPRECATION WARNING
+
+Fast Refresh has been support officially in [create-react-app](https://github.com/facebook/create-react-app) v4, this plugin only support create-react-app v3 and it has some bugs (such as multiple error overlays), so it has been deprecated.
+
 <h1 align="center">Welcome to craco-fast-refresh 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/craco-fast-refresh" target="_blank">
