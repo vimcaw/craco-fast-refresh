@@ -8,7 +8,10 @@ Fast Refresh has been supported officially since [create-react-app](https://gith
     <img alt="Version" src="https://img.shields.io/npm/v/craco-fast-refresh.svg">
   </a>
   <a href="https://www.npmjs.com/package/craco-fast-refresh" target="_blank">
-    <img alt="Download Count" src="https://img.shields.io/npm/dm/craco-fast-refresh">
+    <img alt="Total Download Count" src="https://img.shields.io/npm/dt/craco-fast-refresh">
+  </a>
+  <a href="https://www.npmjs.com/package/craco-fast-refresh" target="_blank">
+    <img alt="Download Count DM" src="https://img.shields.io/npm/dm/craco-fast-refresh">
   </a>
   <a href="https://github.com/vimcaw/craco-fast-refresh/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
