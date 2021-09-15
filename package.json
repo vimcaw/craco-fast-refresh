@@ -14,7 +14,7 @@
     "release:patch": "dotenv release-it -- patch"
   },
   "dependencies": {
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.0",
     "react-refresh": "^0.10.0"
   },
   "devDependencies": {
