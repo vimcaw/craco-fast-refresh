@@ -1,3 +1,15 @@
+# 1.0.0 (2021-09-15)
+
+
+### Bug Fixes
+
+* prevent the error when user don't define a babel and webpack field ([#1](https://github.com/vimcaw/craco-fast-refresh/issues/1)) ([456506f](https://github.com/vimcaw/craco-fast-refresh/commit/456506f799ffc925dc104d94dae9e27b5237d44f))
+
+
+### Features
+
+* add craco plugin ([4c20212](https://github.com/vimcaw/craco-fast-refresh/commit/4c202122aa6b4768934a877b0dd1457f55937835))
+
 ## [1.0.5](https://github.com/vimcaw/craco-fast-refresh/compare/1.0.4...1.0.5) (2020-12-15)
 
 ## [1.0.4](https://github.com/vimcaw/craco-fast-refresh/compare/1.0.3...1.0.4) (2020-12-14)
@@ -19,4 +31,3 @@
 ### Features
 
 * add craco plugin ([4c20212](https://github.com/vimcaw/craco-fast-refresh/commit/4c202122aa6b4768934a877b0dd1457f55937835))
-
